@@ -1,1 +1,1 @@
-var test=123
+val test=123
